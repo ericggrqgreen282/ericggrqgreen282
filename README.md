@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm ericggrqgreen282
 
-<!--
-**ericggrqgreen282/ericggrqgreen282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎱 🎮 🛶 🌈 Improving my skills in mobile development 🎱 🎮 🛶 🌈
 
-Here are some ideas to get you started:
+## About Me
+🏊 🎪 🏄 🏑 Fascinated by algorithms 🏊 🎪 🏄 🏑
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚣 🏸 🏄 A student of cloud computing 🚣 🏸 🏄
+
+### Fun Facts
+🚣 🎯 Dedicated to mastering developer tools 🚣 🎯
+
+---
+🌟 🏏 📚 🎾 🎳 Thanks for visiting my profile! 🛹 🎽 🏒 🎰 🎣
